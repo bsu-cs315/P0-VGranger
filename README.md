@@ -37,4 +37,4 @@ I think the one thing that I find strange about Godot is how every object exists
 - [X] B-2: No unnecessary/generated files are tracked in the repository.
 - [X] A-1: The project report is complete as per the instructions.
 
-This work therefore merits a 
+This work therefore merits an A
